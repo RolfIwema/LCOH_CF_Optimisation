@@ -47,7 +47,8 @@ _General_
 **How to add new electrolyser or PV technology**
 1. Copy an existing PV or Electrolyser type.
 2. Edit the characteristics
-3. Run model
+3. Add new tech in Model_General
+4. Run model
    
 **How to add new energy technologies**
 1. Add required characteristics of the new technology to Country inputs - General.
